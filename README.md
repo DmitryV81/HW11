@@ -67,4 +67,4 @@ ansible-playbook -i hosts site.yml
 
 В результате работы мы получили виртуальную машину с установленым и настроенным на работу на порту 8080 nginx:
 
-![Результат работы](https://github.com/DmitryV81/HW11_system_boot/blob/main/boot_method_1.JPG)
+![Результат работы](https://github.com/DmitryV81/HW11/blob/main/screenshot.png)
